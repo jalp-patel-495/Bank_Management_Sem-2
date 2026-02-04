@@ -11,6 +11,11 @@ This project is based on Object-Oriented Programming (OOP) concepts.
 ---
 
 ## 🚀 Features
+- Clean & modular Java code
+- Account creation
+- Deposit and withdrawal
+- Balance inquiry
+- Transaction history
 - Account creation
 - Deposit & Withdrawal
 - Loan management
