@@ -1,5 +1,9 @@
 # 🏦 Bank Management System 
 
+## Project Details
+This project is developed as part of Semester 2 coursework.
+
+
 ## 📌 Project Overview
 **Bank Management System** is a Java console-based application that simulates basic banking operations.
 This project is based on Object-Oriented Programming (OOP) concepts.
