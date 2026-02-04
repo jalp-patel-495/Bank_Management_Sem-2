@@ -17,6 +17,10 @@ This project is based on Object-Oriented Programming (OOP) concepts.
   - Bank Manager
 - Account Types using Enum
 - Clean & modular Java code
+- Account creation
+- Deposit and withdrawal
+- Balance inquiry
+- Transaction history
 
 ---
 
