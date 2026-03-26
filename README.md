@@ -113,6 +113,7 @@ This project is created for academic purposes and demonstrates basic backend log
 ## 👨‍💻 Author
 
 **Jalp Patel**
+**Man Patel**
 
 ---
 
